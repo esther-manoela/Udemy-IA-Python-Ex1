@@ -68,4 +68,3 @@ print(df['Age'].bfill())
 # Interpolate missing values in the 'Age' column
 print('Interpolate missing values in the Age column:')
 print(df['Age'].interpolate())
-df['Age'].interpolate()
