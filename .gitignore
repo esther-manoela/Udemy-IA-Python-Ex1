@@ -30,3 +30,9 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Generated data files
+dataframe.csv
+dataframe.db
+dataframe.json
+dataframe.xlsx
